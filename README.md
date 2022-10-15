@@ -3,6 +3,8 @@
 
 # JATE Text Editor
 
+[Deployed Heroku Link](https://jate-jate-jate.herokuapp.com/)
+
 ## Description 
 The JATE text editor is built to display PWA functionality via webpacks and various other dependencies (including those that allow it to function offline). It uses the 'idb' package, and is installable on the browser!
 
