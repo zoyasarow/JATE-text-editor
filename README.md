@@ -45,3 +45,8 @@ Email Address: zoyasarow@gmail.com
       
 ## License Type
 MIT 
+
+<img width="1264" alt="Screen Shot 2022-10-15 at 11 22 58 AM" src="https://user-images.githubusercontent.com/101853202/196000159-7d6f6b0c-32f2-4868-91a1-13c3f767b3f2.png">
+
+<img width="1251" alt="Screen Shot 2022-10-15 at 11 22 20 AM" src="https://user-images.githubusercontent.com/101853202/196000163-5e514871-7ce4-4043-8f4e-0c42dbec3c2b.png">
+
